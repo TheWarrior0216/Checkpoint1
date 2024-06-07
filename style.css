@@ -16,3 +16,6 @@
 .fonky{
   font-size: 10px;
 }
+.img-restraint{
+  min-height: 50dvh;
+}
