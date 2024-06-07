@@ -26,3 +26,6 @@ font-size: 90px;
 .Weird-size{
   height: 150px;
 }
+.t-shadow{
+  text-shadow: 3px 2px black;
+}
