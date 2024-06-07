@@ -17,5 +17,12 @@
   font-size: 10px;
 }
 .img-restraint{
-  min-height: 50dvh;
+  max-width: 70%;
+  margin: 6em;
+}
+.funky{
+font-size: 90px;
+}
+.Weird-size{
+  height: 150px;
 }
