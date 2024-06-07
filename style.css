@@ -13,6 +13,9 @@
 .Phone-width{
   width: 7em;
 }
+.Ext-width{
+  width: 8.5em;
+}
 .fonky{
   font-size: 10px;
 }
@@ -28,4 +31,12 @@ font-size: 90px;
 }
 .t-shadow{
   text-shadow: 3px 2px black;
+}
+.P-bg{
+background-color: #59175a;
+}
+.lock{
+position: absolute;
+top: 820px;
+    right: 180px;
 }
